@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ngo-deploy/static/css/main.61714f44.css",
+    "main.js": "/ngo-deploy/static/js/main.6a1667da.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/ngo-deploy/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/img5.png": "/ngo-deploy/static/media/img5.2d0c0744910dc0af5324.png",
+    "static/media/img3.png": "/ngo-deploy/static/media/img3.fbe4253a56b3e5ea83c7.png",
+    "static/media/img7.png": "/ngo-deploy/static/media/img7.13a668d02414229742b2.png",
+    "static/media/img4.png": "/ngo-deploy/static/media/img4.5d757e185e38212921ed.png",
+    "static/media/img3.jpg": "/ngo-deploy/static/media/img3.255f69b0216d1a3e8618.jpg",
+    "static/media/img2.jpg": "/ngo-deploy/static/media/img2.50d5f91282d865f6d00b.jpg",
+    "static/media/contact-us.png": "/ngo-deploy/static/media/contact-us.447a8324ee0abc1d01d5.png",
+    "static/media/partner2.png": "/ngo-deploy/static/media/partner2.22f7888b1e9bd6d24a49.png",
+    "static/media/donor1.jpg": "/ngo-deploy/static/media/donor1.1227b1f3dcb398d06fb5.jpg",
+    "static/media/logo.svg": "/ngo-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ngo-deploy/index.html",
+    "main.61714f44.css.map": "/ngo-deploy/static/css/main.61714f44.css.map",
+    "main.6a1667da.js.map": "/ngo-deploy/static/js/main.6a1667da.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/ngo-deploy/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61714f44.css",
+    "static/js/main.6a1667da.js"
+  ]
+}
